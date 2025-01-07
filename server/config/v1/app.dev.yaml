@@ -3,7 +3,7 @@ server:
   port: 8888
 sysDb:
   key: "sys_db"
-  host: "rm-bp178kv49bn9ny59qqo.mysql.rds.aliyuncs.com"
+  host: "rm-7k178kv49bn9ny59qqo2c3.mysql.rds.aliyuncs.com"
   database: "db_nexwind_admin"
   port: 3306
   user: "nexwind_admin"
