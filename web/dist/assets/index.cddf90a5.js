@@ -1,0 +1,1 @@
+import{_ as e}from"./index.4ad22c22.js";import{C as t,aE as _,aH as s,aM as a,bg as c}from"./arco.b6dedf2e.js";const i="/assets/logo_v2.dd2778fd.png";const n={};function r(d,f){const o=c;return t(),_(o,{class:"footer"},{default:s(()=>[a("Nexwind")]),_:1})}const x=e(n,[["render",r],["__scopeId","data-v-5fe56d26"]]);export{x as F,i as l};

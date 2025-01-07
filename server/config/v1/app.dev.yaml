@@ -1,0 +1,30 @@
+server:
+  host: "127.0.0.1"
+  port: 8888
+sysDb:
+  key: "sys_db"
+  host: "rm-bp178kv49bn9ny59qqo.mysql.rds.aliyuncs.com"
+  database: "db_nexwind_admin"
+  port: 3306
+  user: "nexwind_admin"
+  pwd: "Adaoz18781371379"
+redisSet:
+  - {
+    host: "127.0.0.1",
+    pwd: "",
+    port: 6379,
+    key: "user_info"
+  }
+mySQLSet:
+  - {
+    key: "sys_db",
+    host: "116.205.139.232",
+    db: "ws_base_web",
+    port: 3306,
+    user: "ws_base_web",
+    pwd: "JZKGbZfm6ZP5Cjkp",
+  }
+env: "dev"
+isDev: true
+cors: ["http://localhost:5173"]
+
